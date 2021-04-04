@@ -1,5 +1,5 @@
 <div align="center">
-<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16"  aria-hidden="true"><path fill-rule="evenodd"</path></svg></a><em>Hi There , Im Dixpie 👋 </em> </p>
+<h2><a class="anchor" aria-hidden="true"><path fill-rule="evenodd"</path></svg></a><em>Hi There , Im Dixpie 👋 </em> </p>
  <br>
  <hr>
  <br>

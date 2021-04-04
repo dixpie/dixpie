@@ -1,5 +1,5 @@
 <div align="center">
-<h2><a class="anchor" aria-hidden="true"><path fill-rule="evenodd"</path></svg></a><em>Hi There , Im Dixpie 👋 </em> </p>
+<h2><a class="anchor" aria-hidden="true"></svg></a><em>Hi There , Im Dixpie 👋 </em> </p>
  <br>
  <hr>
  <br>

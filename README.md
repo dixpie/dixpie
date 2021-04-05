@@ -13,10 +13,6 @@
 <br>
 <hr>
 
-  
-
-
-
 ```html
 My Responsitories => {
  Web Calculators
@@ -31,7 +27,6 @@ Atris Music Bot
 my town => {
 Tehran
 }
- 
 ```
 
   

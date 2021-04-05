@@ -43,3 +43,6 @@ Tehran
 <br>
 <br>
 <br>
+<a href="mailto:sinadixpie@gmail.com">
+<img src="https://user-images.githubusercontent.com/77354554/113557640-56f9a380-95cc-11eb-9421-eb1e08a8907e.png" width="300px" heidth="600px">
+ </a>

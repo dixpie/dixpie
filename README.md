@@ -27,7 +27,7 @@ my town => {
 Tehran
 }
  
-```![Untitled-2](https://user-images.githubusercontent.com/77354554/113543507-8b616580-95b4-11eb-958a-9db607db619b.png)
+```
 
 <br>
 <br>
@@ -39,5 +39,6 @@ Tehran
 
 <br>
 <br>
+
 <img src= "https://user-images.githubusercontent.com/77354554/113543541-974d2780-95b4-11eb-9586-58e0daf25fb3.png">
 

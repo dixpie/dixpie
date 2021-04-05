@@ -14,12 +14,12 @@
 <br>
 <br>
 <hr>
-
+  
   
 <br>
 <br>
 <br>
-<img target="_blank" titel="dixpie" src= "https://user-images.githubusercontent.com/77354554/113543541-974d2780-95b4-11eb-9586-58e0daf25fb3.png">
+<img titel="dixpie" src= "https://user-images.githubusercontent.com/77354554/113543541-974d2780-95b4-11eb-9586-58e0daf25fb3.png">
 <br>
 <br>
 <hr>

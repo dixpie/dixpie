@@ -14,11 +14,8 @@
 <br>
 <br>
 <br>
+
+
 ```
- My Responsitories => {  </div>
-<a href= "">Web Calculator </a>
- }
- My  Bots => {
- <a href= ""> Atris Music Bot Disocrd </a>
- </p>
-  ```
+My Responsitories
+```

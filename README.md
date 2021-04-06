@@ -32,3 +32,8 @@
 <a href="mailto:sinadixpie@gmail.com">
 <img src="https://user-images.githubusercontent.com/77354554/113557640-56f9a380-95cc-11eb-9421-eb1e08a8907e.png" width="300px" heidth="600px">
  </a>
+ <div align="center">
+<a href="mailto:ehsan8184@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90" style="max-width:100%;"></a><br>
+<a href="http://t.me/BoyCode" rel="nofollow"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90" style="max-width:100%;"></a>
+<a href="http://instagram.com/boycode1" rel="nofollow"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90" style="max-width:100%;"></a>
+</div>

@@ -4,7 +4,6 @@
  <br>
  <hr>
  <br>
- <iframe src="https://discord.com/widget?id=797356515525787698&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
  <br>
  <br>
 <div>

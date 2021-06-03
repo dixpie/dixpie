@@ -31,4 +31,6 @@ const otherlangs = ["HTML", "CSS"];
 <a href="https://dsc.bio/thedixpie">
 <img src="https://discord.c99.nl/widget/theme-4/843388894597873694.png"/>
   </a><br>
-
+<hr>
+<br>
+<p align="center"><b>© Created by <a href="https://github.com/dixpie/">Dixpie</a> For Team </b></p>

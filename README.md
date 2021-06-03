@@ -28,5 +28,9 @@ const otherlangs = ["HTML", "CSS"];
 <br>
 <h2><i>Contact me! <img width="70px" height="50px" src="https://user-images.githubusercontent.com/77354554/120592230-bf40f600-c452-11eb-80be-426b562031eb.gif"/></i></h2>
 <hr>
-
+<a href="https://dsc.bio/thedixpie">
 <img src="https://discord.c99.nl/widget/theme-4/843388894597873694.png"/>
+  </a>
+<a href="mailto:sinadixpie@gmail.com">
+<img src="https://th.bing.com/th/id/Rdb3921367084308347fcbd09111c7ef3?rik=ATfryFKEs8hXRA&riu=http%3a%2f%2fedtechteacher.org%2fwp-content%2fuploads%2f2017%2f01%2fGmail-Logo.png&ehk=lrpGfyrRd1gCIvFk2dvmNeCqnHoOaOVFZ0mADn%2fQVD4%3d&risl=&pid=ImgRaw" withd="30px" height="80px"/>
+</a>

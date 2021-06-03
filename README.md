@@ -20,6 +20,13 @@ const otherlangs = ["HTML", "CSS"];
 ```
 <br>
 <br/>
-<h2>GitHub</h2>
+<h2><i>GitHub <img src="https://user-images.githubusercontent.com/77354554/120591842-1397a600-c452-11eb-803c-af55aa5d0fca.gif" alt="gif"/></i></h2>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dixpie&show_icons=true&locale=en&layout=compact&theme=radical" alt="github"/><img src="https://github-readme-stats.vercel.app/api?username=Dixpie&show_icons=true&locale=en&theme=radical" alt="github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dixpie&show_icons=true&locale=en&layout=compact&theme=radical" withd="100px" height="200px" alt="github"/><img src="https://github-readme-stats.vercel.app/api?username=Dixpie&show_icons=true&locale=en&theme=radical" withd="100px" height="200px" alt="github"/>
+<hr>
+<br>
+<br>
+<h2><i>Contact me! <img width="70px" height="50px" src="https://user-images.githubusercontent.com/77354554/120592230-bf40f600-c452-11eb-80be-426b562031eb.gif"/></i></h2>
+<hr>
+
+<img src="https://discord.c99.nl/widget/theme-4/843388894597873694.png"/>

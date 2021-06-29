@@ -6,7 +6,7 @@
 <hr/>
 <ul>
   <li><i>Founder Of <a href="https://discord.com/api/oauth2/authorize?client_id=849013641281404940&permissions=2184570688&scope=bot%20applications.commands">Artist</a></i></li>
-  <li><i>Founder Of <a href="#">Pro Role</a></i></li>
+  <li><i>Founder Of <a href="https://discord.com/api/oauth2/authorize?client_id=849013550613135360&permissions=8&scope=applications.commands%20bot">Pro Role</a></i></li>
   <li><i>Developer Of <a href="https://discord.gg/sZBAQ8Qc5v">Cyber ™</a></i></li>
 </ul>
 <br/>

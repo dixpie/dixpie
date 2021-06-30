@@ -26,6 +26,7 @@ const otherlangs = ["HTML", "CSS"];
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dixpie&show_icons=true&locale=en&layout=compact&theme=radical" withd="100px" height="200px" alt="github"/><img src="https://github-readme-stats.vercel.app/api?username=Dixpie&show_icons=true&locale=en&theme=radical" withd="100px" height="200px" alt="github"/>
 <hr>
 <br>
+<img src="https://profile-counter.glitch.me/Dixpie/count.svg" alt="github"/>
 <br>
 <h2><i>Contact me! <img width="70px" height="50px" src="https://user-images.githubusercontent.com/77354554/120592230-bf40f600-c452-11eb-80be-426b562031eb.gif"/></i></h2>
 <hr>

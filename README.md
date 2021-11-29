@@ -21,4 +21,3 @@
   </a><br>
 <hr>
 <br>
-<p align="center"><b>© Created by <a href="https://github.com/dixpie/">Dixpie</a> For Team </b></p>

@@ -1,12 +1,4 @@
 <h1 align="center"><em> Dixpie GitHub Home</em></h1>
-<style>
-    .logo {
-        width : 24px
-    }
-    .fram{
-       width : 25px
-    }   
-     </style>
 <hr/>
 <br/>
 <br/>

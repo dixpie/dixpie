@@ -1,4 +1,3 @@
-
 <h1 align="center"><em> Dixpie GitHub Home</em></h1>
 <style>
     .logo {
@@ -19,13 +18,13 @@
     <ul>
        <hr>
         <li style="color:orange">
-        <img class="logo" src="https://cdn.discordapp.com/attachments/848807245000867900/920593806053748786/200px-Unofficial_JavaScript_logo_2.svg.png" style="width=20px;height=20px" alt="Dixpie"/>
+        <img class="logo" src="https://cdn.discordapp.com/attachments/848807245000867900/920593806053748786/200px-Unofficial_JavaScript_logo_2.svg.png" style="width : 30px" alt="Dixpie"/>
             <ul>
                 <li>
-                        <img class="fram" src="https://cdn.discordapp.com/attachments/848807245000867900/920595277470113802/rtux15pcpgs3.png" style="width=20px;height=20px" alt="Dixpie"/>
-            </li>
-                <li>
-                        <img class="fram" src="https://cdn.discordapp.com/attachments/848807245000867900/920596250217295892/Vue.png" style="width=20px;height=20px" alt="Dixpie"/>
+                    <img class="fram" src="https://cdn.discordapp.com/attachments/848807245000867900/920595277470113802/rtux15pcpgs3.png" style="width : 25px" alt="Dixpie"/>
+              </li>
+              <li>
+                        <img class="fram" src="https://cdn.discordapp.com/attachments/848807245000867900/920596250217295892/Vue.png" style="width : 25px" alt="Dixpie"/>
                 </li>
             </ul>
         </li>

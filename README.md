@@ -12,7 +12,7 @@
 # <div align="center"> My Skills 🧩</div>
 
 ### <div align="center"><h5>Javascript 👙 - Node.js - React.js-  Vue.js</h5> </div>
-### <div align="center"><h5>Python </h5> </div>
+### <div align="center"><h5>Python 💫 </h5> </div>
 ### <div align="center"><h5>Type Script 🔮</h5> </div>
 
 ### <div align="center"><h5>C# ✨ - Asp.net Core</h5> </div>

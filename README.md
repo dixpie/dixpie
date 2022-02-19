@@ -15,7 +15,7 @@
 ### <div align="center"><h5>Python 💫 </h5> </div>
 ### <div align="center"><h5>Type Script 🔮</h5> </div>
 
-### <div align="center"><h5>C# ✨ - Asp.net Core</h5> </div>
+### <div align="center"><h5>C# ✨</h5> </div>
 
 ### <div align="center"><h5>C 🧬</h5> </div>
 <br/>
